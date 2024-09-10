@@ -1,0 +1,41 @@
+KPI,Explainer
+Revenue (EUR),Total revenue achieved in selected period
+Revenue Change (%),Change in revenue vs prior period (%)
+Revenue Change (EUR),Change in revenue vs prior period (absolute)
+Revenue share (%),% of total sales achieved by each brand
+Revenue share Change (pp),Change in revenue share achieved vs prior period (%pp)
+Units,Total units sold in selected period
+Units Change (%),Change in units sold vs prior period (%)
+Units Change,Change in units sold vs prior period (absolute)
+Unit share (%),% of total units sold achieved by each brand
+Unit share Change (pp),Change in unit share vs prior period (%pp)
+Price (EUR),Average price achieved per model sold for that brand
+Price Change (%),Change in average price achieved vs prior period (%)
+Price Change (EUR),Change in average price achieved vs prior period (absolute)
+Price index,Price index relative to overall market
+Price index Change,Change in price index vs prior period
+TPR units,Number of units sold at promotional price
+TPR units Change (%),Change in number of units sold at promotional price vs prior period (%)
+TPR units Change,Change in number of units sold at promotional price vs prior period (absolute)
+,
+,
+Products,
+KPI,Explainer
+Model code,Unique ID to describe the product model sold
+Brand,Revenue/Sales/KPis associated with that brand
+Revenue (EUR),Total revenue achieved in selected period
+Revenue Change (%),Change in revenue vs prior period (%)
+Revenue Change (EUR),Change in revenue vs prior period (absolute)
+Units,Total units sold in selected period
+Units Change (%),Change in units sold vs prior period (%)
+Units Change,Change in units sold vs prior period (absolute)
+Price (EUR),Average price sold at
+Price Change (%),Change in average price sold at vs prior period (%)
+Price Change (EUR),Change in average price sold at vs prior period (absolute)
+Price index,Price index relative to overall market
+Price index Change,Change in price index vs prior period
+Act. Num. Dist.,% of total stores within universe sold within
+Act. Num. Dist. Change (pp),Change in total stores sold in vs prior period (%pp)
+TPR units,Number of units sold at promotional price
+TPR units Change (%),Change in number of units sold at promotional price vs prior period (%)
+TPR units Change,Change in number of units sold at promotional price vs prior period (absolute)
